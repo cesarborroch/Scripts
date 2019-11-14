@@ -1,7 +1,7 @@
 ################################################################################
 
-# Smallest possible example of uploading a code to CKAN by its RESTful server
-# that includes connection with Oracle and validation after the upload
+# Smallest possible example of uploading a resource to CKAN by its RESTful interface
+# It includes connection with Oracle and validation after the upload
 
 ################################################################################
 
