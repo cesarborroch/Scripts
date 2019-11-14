@@ -1,3 +1,6 @@
+# Discovers passwords that contains only letters and numbers
+# Add more symbols to string digits as needed
+
 def toPassword(dec):
     digits = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
     x = int((dec % len(digits))) - 1
